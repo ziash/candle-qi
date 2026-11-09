@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#0b1220"/><text x="55" y="65" fill="#f8fafc" font-family="Arial" font-size="34" font-weight="bold">Candle anatomy — separate geometry, don't collapse it</text>
+<text x="55" y="100" fill="#94a3b8" font-family="Arial" font-size="18">Illustrative proportions; not actual market observations</text>
+<g stroke="#e2e8f0" stroke-width="5"><line x1="230" y1="170" x2="230" y2="550"/><line x1="600" y1="170" x2="600" y2="550"/><line x1="970" y1="170" x2="970" y2="550"/></g>
+<rect x="190" y="250" width="80" height="230" fill="#10b981" stroke="#6ee7b7" stroke-width="3"/>
+<rect x="560" y="345" width="80" height="65" fill="#64748b" stroke="#cbd5e1" stroke-width="3"/>
+<rect x="930" y="260" width="80" height="210" fill="#ef4444" stroke="#fca5a5" stroke-width="3"/>
+<g font-family="Arial" font-size="21" fill="#e2e8f0">
+<text x="170" y="590">Body-dominant</text><text x="170" y="622" fill="#6ee7b7" font-size="17">Candidate Yang-like geometry</text>
+<text x="530" y="590">Two-sided wick</text><text x="530" y="622" fill="#cbd5e1" font-size="17">Candidate Yin-like geometry</text>
+<text x="900" y="590">One-sided rejection</text><text x="900" y="622" fill="#fca5a5" font-size="17">Asymmetry; context matters</text>
+</g>
+<g fill="#fbbf24" font-family="Arial" font-size="17"><text x="310" y="225">Upper wick</text><text x="310" y="375">Body fraction</text><text x="310" y="525">Lower wick</text></g>
+<g stroke="#fbbf24" stroke-width="2"><path d="M270 220 H400"/><path d="M270 360 H400"/><path d="M270 520 H400"/></g>
+<text x="55" y="670" fill="#64748b" font-family="Arial" font-size="15">OHLC quantifies geometry, but not the order, speed or duration of intrabar movement.</text>
+</svg>
